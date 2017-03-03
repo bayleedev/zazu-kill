@@ -1,5 +1,6 @@
-## Zazu Template
+## Zazu Kill
 
-[![Build Status](https://travis-ci.org/tinytacoteam/zazu-template.svg?branch=master)](https://travis-ci.org/tinytacoteam/zazu-template)
+[![Build Status](https://travis-ci.org/blainesch/zazu-kill.svg?branch=master)](https://travis-ci.org/blainesch/zazu-kill)
+[![Build status](https://ci.appveyor.com/api/projects/status/srinoiu594trevtd/branch/master?svg=true)](https://ci.appveyor.com/project/blainesch/zazu-kill/branch/master)
 
-Zazu Template for starting your own plugin.
+List and kill processes easily from Zazu.
