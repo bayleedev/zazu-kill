@@ -15,5 +15,8 @@
     "eslint-plugin-promise": "^3.4.0",
     "eslint-plugin-standard": "^2.0.1",
     "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "fuzzyfind": "^2.0.0"
   }
 }
