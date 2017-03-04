@@ -5,7 +5,6 @@ os: unstable
 
 install:
   - ps: Install-Product node $env:nodejs_version
-  - choco install nsis -pre -y
   - npm install
 
 test_script:
